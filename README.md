@@ -12,6 +12,7 @@ Tech Stack
 => CSS
 
 Features
+
 ✅ Simple webpage with heading, paragraph, and image
 
 ✅ Basic form with an input field and submit button
